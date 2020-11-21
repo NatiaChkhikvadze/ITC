@@ -39,4 +39,7 @@
 .box {
     display: inline;
 }
+.text-muted {
+    margin-left: 4%;
+}
 
